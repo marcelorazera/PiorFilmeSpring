@@ -1,0 +1,12 @@
+com\outsera\pior_filme\controller\MovieController.class
+com\outsera\pior_filme\service\AwardIntervalService.class
+com\outsera\pior_filme\service\MovieService.class
+com\outsera\pior_filme\model\Movie.class
+com\outsera\pior_filme\dto\AwardIntervalResponseDto.class
+com\outsera\pior_filme\repository\ProducerRepository.class
+com\outsera\pior_filme\PiorFilmeApplication.class
+com\outsera\pior_filme\dto\AwardIntervalDto.class
+com\outsera\pior_filme\model\Producer.class
+com\outsera\pior_filme\dto\MovieDto.class
+com\outsera\pior_filme\loader\MovieDataLoader.class
+com\outsera\pior_filme\repository\MovieRepository.class
